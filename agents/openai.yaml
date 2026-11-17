@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas 学习资料助手"
+  short_description: "识别自己的 Canvas 课程，按周保存原文与中文版，并汇总待办、截止时间和邮件通知"
+  default_prompt: "请使用 $canvas-study 整理当前项目，识别我已登录 Canvas 中的在修课程并按周归档；邮件按我的授权发送。"
